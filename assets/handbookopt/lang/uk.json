@@ -50,7 +50,7 @@
   "hover-tooltip-availability": "Є {0} · бракує {1}",
   "hover-tooltip-batches-available": "Доступних повних партій: {0}",
   "hover-tooltip-batches-missing": "Бракує матеріалів або інструментів для повної партії",
-  "ingredient-search-button": "ПОШУК",
+  "ingredient-search-button": "ШУК",
   "ingredient-search-pick-prompt": "Клацніть на предмет у наплічнику або на панелі швидкого доступу для пошуку.",
   "filter-uses-ingredient": "Використовує: {0}",
   "filter-no-recipes-use-ingredient": "Жоден сітчастий рецепт не використовує {0}.",
