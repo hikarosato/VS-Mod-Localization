@@ -1,0 +1,76 @@
+{
+        "game:item-creature-humanoid-trader-painter":                           "Торговець картинами",
+        "game:tradingwindow-humanoid-trader-painter":                           "{0} — художник",
+
+        "game:item-creature-humanoid-trader-forester":                          "Торговець-лісник",
+        "game:tradingwindow-humanoid-trader-forester":                          "{0} — лісник",
+
+        "game:item-creature-humanoid-trader-rancher":                           "Торговець-фермер",
+        "game:tradingwindow-humanoid-trader-rancher":                           "{0} — фермер",
+
+        "game:item-creature-humanoid-trader-chef":                              "Торговець-кухар",
+        "game:tradingwindow-humanoid-trader-chef":                              "{0} — кухар",
+
+        "game:item-creature-humanoid-trader-masonrysupply":                             "Торговець кам'яними матеріалами",
+        "game:tradingwindow-humanoid-trader-masonrysupply":                             "{0} — торговець кам'яними матеріалами",
+
+        "game:item-creature-humanoid-trader-smallrocksupply":                           "Торговець дрібним каменем",
+        "game:tradingwindow-humanoid-trader-smallrocksupply":                           "{0} — торговець дрібним каменем",
+
+        "game:item-creature-humanoid-trader-mastermason":                               "Майстер-каменяр",
+        "game:tradingwindow-humanoid-trader-mastermason":                               "{0} — майстер-каменяр",
+
+        "game:item-creature-humanoid-trader-apprenticemason-ashlarblocks":                              "Підмайстер-каменяр — Тесані блоки",
+        "game:tradingwindow-humanoid-trader-apprenticemason-ashlarblocks":                              "{0} — торговець тесаними блоками",
+
+        "game:item-creature-humanoid-trader-apprenticemason-ashlarstairs":                              "Учень-каменяр — Тесані сходи",
+        "game:tradingwindow-humanoid-trader-apprenticemason-ashlarstairs":                              "{0} — торговець тесаними сходами",
+
+        "game:item-creature-humanoid-trader-apprenticemason-ashlarslab":                                "Учень-каменяр — Тесана плита",
+        "game:tradingwindow-humanoid-trader-apprenticemason-ashlarslab":                                "{0} — торговець тесаними плитами",
+
+        "game:item-creature-humanoid-trader-apprenticemason-agedashlarblocks":                          "Учень-каменяр — Стародавні тесані блоки",
+        "game:tradingwindow-humanoid-trader-apprenticemason-agedashlarblocks":                          "{0} — торговець стародавніми тесаними блоками",
+
+        "game:item-creature-humanoid-trader-apprenticemason-crackedashlarblocks":                               "Учень-каменяр — Потріскані тесані блоки",
+        "game:tradingwindow-humanoid-trader-apprenticemason-crackedashlarblocks":                               "{0} — торговець потрісканими тесаними блоками",
+
+        "game:item-creature-humanoid-trader-apprenticemason-cobblestone":                               "Підмайстер-каменяр — Бут",
+        "game:tradingwindow-humanoid-trader-apprenticemason-cobblestone":                               "{0} — торговець бутовим каменем",
+
+        "game:item-creature-humanoid-trader-apprenticemason-cobblestonestairs":                         "Учень-каменяр — Бутові сходи",
+        "game:tradingwindow-humanoid-trader-apprenticemason-cobblestonestairs":                         "{0} — торговець бутовими сходами",
+
+        "game:item-creature-humanoid-trader-apprenticemason-drycobblestone":                            "Учень-каменяр — Сухий бут",
+        "game:tradingwindow-humanoid-trader-apprenticemason-drycobblestone":                            "{0} — торговець сухим бутом",
+
+        "game:item-creature-humanoid-trader-apprenticemason-cobbleskull":                               "Учень-каменяр — Бут із черепами",
+        "game:tradingwindow-humanoid-trader-apprenticemason-cobbleskull":                               "{0} — торговець бутом із черепами",
+
+        "game:item-creature-humanoid-trader-apprenticemason-cobblestonefan":                            "Учень-каменяр — Віяловий бут",
+        "game:tradingwindow-humanoid-trader-apprenticemason-cobblestonefan":                            "{0} — торговець віяловим бутом",
+
+        "game:item-creature-humanoid-trader-apprenticemason-plainrock":                         "Підмайстер-каменяр — Звичайна порода",
+        "game:tradingwindow-humanoid-trader-apprenticemason-plainrock":                         "{0} — торговець звичайною породою",
+
+        "game:item-creature-humanoid-trader-apprenticemason-crackedstone":                              "Учень-каменяр — Потріскана порода",
+        "game:tradingwindow-humanoid-trader-apprenticemason-crackedstone":                              "{0} — торговець потрісканою породою",
+
+        "game:item-creature-humanoid-trader-apprenticemason-polishedstone":                             "Учень-каменяр — Полірована порода",
+        "game:tradingwindow-humanoid-trader-apprenticemason-polishedstone":                             "{0} — торговець полірованою породою",
+
+        "game:item-creature-humanoid-trader-apprenticemason-polishedslab":                              "Учень-каменяр — Полірована плита",
+        "game:tradingwindow-humanoid-trader-apprenticemason-polishedslab":                              "{0} — торговець полірованими плитами",
+
+        "game:item-creature-humanoid-trader-apprenticemason-agedpolishedcobrock":                               "Учень-каменяр — Стародавній полірований бут",
+        "game:tradingwindow-humanoid-trader-apprenticemason-agedpolishedcobrock":                               "{0} — торговець стародавнім полірованим бутом",
+
+        "game:item-creature-humanoid-trader-apprenticemason-agedpolishedrock":                          "Учень-каменяр — Стародавня полірована порода",
+        "game:tradingwindow-humanoid-trader-apprenticemason-agedpolishedrock":                          "{0} — торговець стародавньою полірованою породою",
+
+                "game:item-creature-humanoid-trader-simplepotter":                              "Простий гончар",
+        "game:tradingwindow-humanoid-trader-simplepotter":                              "{0} — простий гончар",
+
+        "game:incontainer-item-jamhoneyportion":                                "Варення кухаря",
+        "game:item-pemmican-dried-salted":                                                      "Пеммікан кухаря"
+}

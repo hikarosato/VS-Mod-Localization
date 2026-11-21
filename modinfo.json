@@ -1,0 +1,15 @@
+{
+  "Type": "content",
+  "TextureSize": 32,
+  "Name": "Mod Ukrainization",
+  "Version": "1.0.0",
+  "NetworkVersion": null,
+  "Description": "Переклад модів, з якими граю сам.",
+  "ModID": "hikaroukrainization",
+  "Authors": [
+    "Hikaro"
+   ],
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}

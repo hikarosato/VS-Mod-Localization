@@ -1,0 +1,90 @@
+{
+  "bloodtrail-server": "Кривавий слід (Сервер)",
+  "bloodtrail-client": "Кривавий слід (Клієнт)",
+
+  "missing-permission": "У вас немає прав для керування налаштуваннями сервера.",
+
+  // Опис IMM
+  "Config.Hint.Server": "Серверні правила кровотечі.",
+  "Config.Hint.DOT": "Необов'язкові втрати здоров'я під час кровотечі.",
+  "Config.Hint.Client": "Локальний перемикач візуального ефекту.",
+  "Config.Hint.Duration": "Таймінг локальних частинок крові.",
+  "Config.Hint.Amount": "Кількість локальних частинок.",
+  "Config.Hint.Size": "Розмір локальних частинок.",
+  "Config.Hint.Extra": "Поведінка та колір локальних частинок.",
+
+  // Налаштування сервера
+  "Config.Setting.CausedByPlayer": "Джерело ушкодження — гравець",
+  "Config.Hint.CausedByPlayer": "Кровотечу викликає лише ушкодження від гравця.",
+  "Config.Setting.BleedingDuration": "Тривалість кровотечі (с)",
+  "Config.Hint.BleedingDuration": "Час кровотечі після атаки",
+  "Config.Setting.DamageThreshold": "Поріг ушкодження",
+  "Config.Hint.DamageThreshold": "Кровотеча починається вище за це ушкодження.",
+  "Config.Setting.BleedingChance": "Шанс кровотечі %",
+  "Config.Hint.BleedingChance": "Ймовірність спрацювання кровотечі.",
+
+  // Вкладка -> DOT
+  "Config.Setting.Tab.DOT": "Ушкодження від кровотечі",
+  "Config.Setting.BleedDamageEnabled": "Увімкнути ушкодження від кровотечі",
+  "Config.Hint.BleedDamageEnabled": "Якщо ввімкнено, істоти втрачатимуть здоров'я з часом під час кровотечі.",
+  "Config.Setting.BleedDamageTick": "Інтервал ушкодження (с)",
+  "Config.Hint.BleedDamageTick": "Як часто завдається ушкодження від кровотечі (1.0 — щосекунди).",
+  "Config.Setting.BleedDamage": "Величина ушкодження від кровотечі",
+  "Config.Hint.BleedDamage": "Кількість здоров'я, що втрачається за один інтервал.",
+
+  // Налаштування клієнта
+  "Config.Setting.BleedEffect": "Ефект кровотечі",
+  "Config.Hint.BleedEffect": "Якщо вимкнено, мод локально не діє.",
+
+  //  Вкладка -> Тривалість
+  "Config.Setting.Tab.Duration": "Тривалість",
+  "Config.Setting.BleedTickInMS": "Тік крові (мс)",
+  "Config.Hint.BleedTickInMS": "Частота падіння в мс. Вище значення = менше зависань.",
+  "Config.Setting.BloodDuration": "Тривалість крові (с)",
+  "Config.Hint.BloodDuration": "Час до зникнення крові.",
+  "Config.Setting.BleedDurationAfterDeath": "Після смерті (с)",
+  "Config.Hint.BleedDurationAfterDeath": "Зупинити кровотечу через X секунд після смерті.",
+  "Config.Setting.BloodDurationUnderRain": "У дощ (с)",
+  "Config.Hint.BloodDurationUnderRain": "Час до зникнення крові в дощ.",
+
+  //  Вкладка -> Кількість
+  "Config.Setting.Tab.Amount": "Кількість",
+  "Config.Setting.MinBloodParticlesAmount": "Мін. частинок",
+  "Config.Hint.MinBloodParticlesAmount": "Мінімум за тік.",
+  "Config.Setting.MinBloodParticleAmountRunning": "Мін. частинок під час бігу",
+  "Config.Hint.MinBloodParticleAmountRunning": "Мінімум за тік, коли істота біжить.",
+  "Config.Setting.MaxBloodParticlesAmount": "Макс. частинок",
+  "Config.Hint.MaxBloodParticlesAmount": "Максимум за тік.",
+  "Config.Setting.MaxBloodParticlesAmountRunning": "Макс. частинок під час бігу",
+  "Config.Hint.MaxBloodParticlesAmountRunning": "Максимум за тік, коли істота біжить.",
+
+  //  Вкладка -> Розмір
+  "Config.Setting.Tab.Size": "Розмір",
+  "Config.Setting.MinBloodParticlesSize": "Мін. розмір частинок",
+  "Config.Hint.MinBloodParticlesSize": "Мінімальний розмір частинок.",
+  "Config.Setting.MaxBloodParticlesSize": "Макс. розмір частинок",
+  "Config.Hint.MaxBloodParticlesSize": "Максимальний розмір частинок.",
+  "Config.Setting.MaxBloodParticlesSizeRunning": "Макс. розмір під час бігу",
+  "Config.Hint.MaxBloodParticlesSizeRunning": "Максимальний розмір частинок, коли істота біжить.",
+
+  //  Вкладка -> Додатково
+  "Config.Setting.Tab.Extra": "Додатково",
+  "Config.Setting.BloodSpread": "Розбризкування крові",
+  "Config.Hint.BloodSpread": "Розмір калюжі крові",
+  "Config.Setting.DisappearInWater": "Зникати у воді",
+  "Config.Hint.DisappearInWater": "Вода розчиняє кров.",
+  "Config.Setting.AffectedByRain": "Вплив дощу",
+  "Config.Hint.AffectedByRain": "Дощ скорочує час існування.",
+  "Config.Setting.AffectedByRunning": "Вплив бігу",
+  "Config.Hint.AffectedByRunning": "Біг змінює поведінку частинок.",
+  "Config.Setting.ConfettiBlood": "Конфеті замість крові",
+  "Config.Hint.ConfettiBlood": "Замінити кров на конфеті.",
+  "Config.Setting.RainbowBlood": "Веселкові частинки",
+  "Config.Hint.RainbowBlood": "Веселково забарвлена кров",
+  "Config.Setting.BloodParticlesColor": "Колір частинок",
+  "Config.Hint.BloodParticlesColor": "Колір частинок.",
+  "Config.Hint.BloodParticlesColor.Red": "Колір частинок: Червоний",
+  "Config.Hint.BloodParticlesColor.Green": "Колір частинок: Зелений",
+  "Config.Hint.BloodParticlesColor.Blue": "Колір частинок: Синій",
+  "Config.Hint.BloodParticlesColor.Transparency": "Колір частинок: Прозорість"
+}
